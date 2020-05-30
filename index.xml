@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://KrithikaJayaraman.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2020 16:08:15 -0700</lastBuildDate>
+    
+	<atom:link href="http://KrithikaJayaraman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick peek about torch.tensor</title>
+      <link>http://KrithikaJayaraman.github.io/pytorch/day1/</link>
+      <pubDate>Fri, 29 May 2020 16:08:15 -0700</pubDate>
+      
+      <guid>http://KrithikaJayaraman.github.io/pytorch/day1/</guid>
+      <description>Introduction to Pytorch Welcome to the first blog in the series Hands-On Pytorch Day 1. Recently I happened to attend a series of web tutorials on &amp;ldquo;Pytorch: Zero to GANs&amp;rdquo; presented by Jovian ML. This series is a compilation of the lessons learnt from the course.
+This tutorial will show some of the basic tensor functions in Pytorch. The intent of this blog is to get a feel of how programming in Pytorch looks like.</description>
+    </item>
+    
+  </channel>
+</rss>
